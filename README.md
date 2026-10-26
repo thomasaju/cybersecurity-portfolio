@@ -11,6 +11,23 @@ Welcome to my cybersecurity learning journey! This repository documents my hands
 
 ---
 
+## 📜 Professional Education & Certificates
+
+### Google Cybersecurity Professional Certificate
+- [x] **Foundations of Cybersecurity** *(Completed June 2025 - Grade: 95%)*
+- [x] **Play It Safe: Manage Security Risks** *(Completed June 2025 - Grade: 93%)*
+- [x] **Connect and Protect: Networks and Network Security** *(Completed July 2025 - Grade: 98%)*
+- [ ] Tools of the Trade: Linux and SQL
+- [ ] Assets, Threats, and Vulnerabilities
+- [ ] Sound the Alarm: Detection and Response
+- [ ] Automate Cybersecurity Tasks with Python
+- [ ] Put It to Work: Prepare for Cybersecurity Jobs
+
+### IT & Systems Credentials
+- **CompTIA A+** Certified
+
+---
+
 ## 📂 Portfolio Structure
 
 - 📁 [**TryHackMe Walkthroughs & Writeups**](./tryhackme-writeups/)  
